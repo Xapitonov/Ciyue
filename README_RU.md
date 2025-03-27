@@ -35,7 +35,7 @@ Ciyue — это простой словарь mdict с поддержкой And
 
 ## Рекомендуемые словари
 
-Смотрите [Wiki](https://github.com/mumu-lhl/Ciyue/wiki#recommended-dictionaries).
+См. [Wiki](https://github.com/mumu-lhl/Ciyue/wiki#recommended-dictionaries).
 
 ## Разрешения
 
